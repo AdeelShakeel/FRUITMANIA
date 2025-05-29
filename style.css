@@ -1,0 +1,387 @@
+body { 
+text-align: center;
+background-image: url(images/image.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.a1{
+    padding: 13px;
+    background : linear-gradient(to bottom right, #4682B4, #8A2BE2);
+    transition: 0.3s ease;
+    cursor: pointer;
+    color: white;
+    border: solid whitesmoke 2px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.a1:hover{
+    background: linear-gradient(to bottom right, #6A5ACD, #00BFFF);
+    color: white;
+}
+.a2{
+     padding: 13px;
+    background : linear-gradient(to bottom right, #4682B4, #8A2BE2);
+    transition: 0.3s ease;
+    cursor: pointer;
+    color: white;
+    border: solid whitesmoke 2px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.a2:hover{
+    background: linear-gradient(to bottom right, #6A5ACD, #00BFFF);
+    color: white;
+}
+.B21{
+     padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    color: whitesmoke;
+    margin-left: 10px;
+}
+.B21:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b1{
+    padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 75px;
+}
+.b1:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b2{
+    padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 80px ;
+}
+.b2:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b3{
+    padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 75px;
+}
+.b3:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b4{
+    padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 76px;
+}
+.b4:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b5{
+    padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 79px;
+}
+.b5:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b6{
+    padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 70px;
+}
+.b6:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b7{
+    padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 70px;
+}
+.b7:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b8{
+   padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 70px;
+}
+.b8:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;  
+}
+.b9{
+    padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 70px;
+}
+.b9:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;  
+}
+.b10{
+     padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 70px;
+}
+.b10:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b11{
+     padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 70px;
+}
+.b11:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.b12{
+     padding: 13px;
+    border: solid black 2px;
+    border-radius: 10px;
+    background : linear-gradient(to bottom right, #FFD700, #FFA500);
+    transition: 0.3s ease;
+    cursor: pointer;
+    margin-right: 47px;
+}
+.b12:hover {
+    background : linear-gradient(to bottom right, #FFEC8B, #FFBB00);
+color: white;
+}
+.fruitmaster{
+    text-align: right;
+}
+.img12{
+    display: inline-block;
+    vertical-align: top;
+}
+.ice{
+      border: solid black 2px;
+    border-radius: 50px;
+    height: 200px;
+    margin-right: 40px;
+}
+.img11{
+    display: inline-block;
+    vertical-align: top;
+}
+.gas{
+     border: solid black 2px;
+    border-radius: 50px;
+    height: 200px;
+    margin-right: 51px;
+}
+.img10{
+    display: inline-block;
+    vertical-align: top;
+}
+.bliz{
+     border: solid black 2px;
+    border-radius: 50px;
+    height: 200px;
+    margin-right: 50px;
+}
+.img9{
+    display: inline-block;
+    vertical-align: top;
+}
+.control{
+     border: solid black 2px;
+    border-radius: 50px;
+    height: 200px;
+    margin-right: 52px;
+}
+.img8{
+    display: inline-block;
+    vertical-align: top;
+}
+.creation{
+    border: solid black 2px;
+    border-radius: 50px;
+    height: 200px;
+    margin-right: 50px;
+}
+.img7{
+    display: inline-block;
+    vertical-align: top;
+}
+.portal{
+     border: solid black 2px;
+    border-radius: 50px;
+    height: 200px;
+    margin-right: 50px;
+}
+.img6{
+    display: inline-block;
+    vertical-align: top;
+}
+.mammth{
+     border: solid black 2px;
+    border-radius: 50px;
+    height: 200px;
+    margin-right: 40px;
+}
+.img5{
+    display: inline-block;
+    vertical-align: top;
+}
+.kit{
+    border: solid black 2px;
+    border-radius: 30px;
+    height: 200px;
+    margin-right: 50px;
+}
+.img4{
+    display: inline-block;
+    vertical-align: top;
+}
+.dragonw{
+    border: solid black 2px;
+    border-radius: 30px;
+    height: 200px;
+    margin-right: 50px;
+}
+.img3{
+    display: inline-block;
+    vertical-align: top
+}
+.trex{
+    border: solid black 2px;
+    border-radius: 30px;
+    height: 200px;
+    margin-right: 50px;
+}
+.img2{
+    display: inline-block;
+    vertical-align: top;
+}
+.leo{
+    border: solid black 2px;
+    border-radius: 50px;
+    height: 200px;
+    margin-right: 50px;
+}
+.img1{
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+.budha{
+    border: solid black 2px;
+    border-radius: 30px;
+    height: 200px;
+    margin-right: 50px;
+}
+hr{
+    height: 1px;
+}
+.h1{
+    color: transparent;
+    font-weight: bold;
+    display: inline-block;
+    background: linear-gradient(to right, #87CEEB, #4169E1);
+    background-clip: text;
+    margin-left: 300px;
+    border: solid whitesmoke 3px;
+    padding: 13px;
+    border-radius: 20px;
+}
+.login{
+    margin-left: 200px;
+    display: inline-block;
+    padding: 13px;
+    background : linear-gradient(to bottom right, #4682B4, #8A2BE2);
+    transition: 0.3s ease;
+    cursor: pointer;
+    color: white;
+    border: solid whitesmoke 2px;
+    border-radius: 20px;
+}
+.login:hover{
+    background: linear-gradient(to bottom right, #6A5ACD, #00BFFF);
+    color: white;
+}
+.h2{
+    color: transparent;
+    font-weight: bold;
+    background: linear-gradient(to right, #00BFFF, #4682B4);
+    background-clip: text;
+}
+.p1{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.inp1{
+    background-color: whitesmoke;
+    display: inline-block;
+    width: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: black 1px;
+    border-radius: 50px;
+    text-align: center;
+}
+input::placeholder{
+    color: black;
+    font-weight: bolder;
+}
+.foot{
+    color: white;
+    font-weight: bolder;
+}
